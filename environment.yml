@@ -16,6 +16,7 @@ dependencies:
   - wikipedia
   - faiss-cpu
   - youtube-transcript-api
+  - requests
 
 # Generative AI Frameworks
   - langchain
